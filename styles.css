@@ -51,8 +51,8 @@ body {
     opacity: 0.8;
 }
 
-.red {
-    color: red;
+.white {
+    color: white;
 }
 
 .drum {
@@ -75,4 +75,8 @@ body {
 
 footer {
     color: white;
+}
+
+.hidden {
+    visibility: hidden;
 }
